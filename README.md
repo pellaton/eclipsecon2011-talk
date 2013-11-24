@@ -4,9 +4,9 @@ EclipseCon 2011 Talk
 Materials of my EclipseCon 2011 Talk 'Getting Eclipse Preferences Under Control In Teams'
 
 ## Examples
--[Example EPF file](https://github.com/pellaton/eclipsecon2011-talk/raw/master/examples/eclipse-config.epf)
--[ETE customization Example](https://github.com/pellaton/eclipsecon2011-talk/raw/master/examples/ete-examples.zip)
--[WorkspaceMechanic Example](https://github.com/pellaton/eclipsecon2011-talk/raw/master/examples/workspace-mechanic-examples.zip)
+- [Example EPF file](https://github.com/pellaton/eclipsecon2011-talk/raw/master/examples/eclipse-config.epf)
+- [ETE customization Example](https://github.com/pellaton/eclipsecon2011-talk/raw/master/examples/ete-examples.zip)
+- [WorkspaceMechanic Example](https://github.com/pellaton/eclipsecon2011-talk/raw/master/examples/workspace-mechanic-examples.zip)
 
 ## Links
 ###Discussed Projects]
